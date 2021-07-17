@@ -271,23 +271,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     MotoActions
 
-# Moto TimeWeather
-PRODUCT_PACKAGES += \
-    TimeWeather
-
-# Moto Live Wallpaper
-PRODUCT_PACKAGES += \
-    MotoLiveWallpaper3
-
 # Network
 PRODUCT_PACKAGES += \
     netutils-wrapper-1.0
-
-# Moto Dolby
-PRODUCT_PACKAGES += \
-    MotoDolbyV3
-
-$(call inherit-product, packages/apps/MotoDolbyV3/config.mk)
 
 # Perf
 PRODUCT_COPY_FILES += \
