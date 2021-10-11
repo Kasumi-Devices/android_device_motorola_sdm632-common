@@ -18,6 +18,10 @@
   {
     "repository": "android_vendor_motorola_sdm632",
     "target_path": "vendor/motorola"
+  },
+  {
+    "repository": "ThankYouMario/proprietary_vendor_qcom_sdclang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-sdllvm",
+    "branch": "ruby-12"
   }
-
 ]
