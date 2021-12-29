@@ -1,0 +1,25 @@
+[
+  {
+    "repository": "Materium-Devices/android_kernel_motorola_sdm632",
+    "target_path": "kernel/motorola/sdm632",
+    "branch": "materium-v1"
+  },
+  {
+    "repository": "LineageOS/android_hardware_motorola",
+    "target_path": "hardware/motorola"
+  },
+  {
+    "repository": "LineageOS/android_external_bson",
+    "target_path": "external/bson"
+  },
+  {
+    "repository": "Materium-Devices/android_vendor_motorola_sdm632",
+    "target_path": "vendor/motorola",
+    "branch": "materium-v1"
+  },
+  {
+    "repository": "ThankYouMario/proprietary_vendor_qcom_sdclang",
+    "target_path": "prebuilts/clang/host/linux-x86/clang-sdm632-sdllvm",
+    "branch": "ruby-12"
+  }
+]
