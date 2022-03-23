@@ -179,6 +179,7 @@ PRODUCT_PACKAGES += \
     libgnss \
     libgnsspps \
     libsynergy_loc_api \
+    libloc_api_v02 \
     libwifi-hal-ctrl
 
 PRODUCT_PACKAGES += \
