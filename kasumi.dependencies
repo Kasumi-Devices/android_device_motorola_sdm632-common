@@ -1,0 +1,16 @@
+[
+  {
+    "repository": "Devices-ng/android_kernel_motorola_sdm632",
+    "target_path": "kernel/motorola/sdm632",
+    "branch": "ng-v2"
+  },
+  {
+    "repository": "LineageOS/android_external_bson",
+    "target_path": "external/bson"
+  },
+  {
+    "repository": "Kasumi-Devices/android_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "branch": "kasumi-v2"
+  }
+]
